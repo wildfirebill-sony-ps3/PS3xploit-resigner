@@ -1,4 +1,5 @@
 # PS3xploit-resigner
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 ---
 
